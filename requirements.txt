@@ -1,0 +1,4 @@
+pyinstaller
+psutil 
+PyQt6 
+qtawesome
